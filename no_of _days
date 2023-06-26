@@ -1,0 +1,2 @@
+age1 = input ("plz enter your age: ")
+print ("Hello you are ", (age1*365), " days old" )
